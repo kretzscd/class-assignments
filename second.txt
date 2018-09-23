@@ -1,1 +1,2 @@
 This is the second file I needed to create for the assignment HWAssignment: NodeJS and Git
+I used this file to practice making a branch and merging it with the master.
